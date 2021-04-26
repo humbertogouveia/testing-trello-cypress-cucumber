@@ -1,0 +1,12 @@
+{
+    "baseUrl": "http://localhost:3000/",
+    "video": false,
+    "viewportWidth": 1520,
+    "viewportHeight": 880,
+    "chromeWebSecurity": false,
+    "ignoreTestFiles": "*.js",
+    "testFiles": "**/*.{feature,features}",
+    "env": {
+        "coverage": false
+    }
+}
